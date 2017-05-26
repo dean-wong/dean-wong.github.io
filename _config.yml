@@ -24,7 +24,7 @@ github_username:  dean-wong
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-modernist
 gems:
   - jekyll-feed
 exclude:
