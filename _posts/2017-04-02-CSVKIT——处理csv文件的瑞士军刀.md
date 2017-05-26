@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "CSVKIT——处理csv文件的瑞士军刀"
+date:   2017-04-02
+categories: jekyll update
+---
 > 统计和数据处理都离不开csv文件，一般来说，操作csv都是依赖第三方软件，如Excel、Matlab这样的；也可以自己编程，用Python、Perl等等，直接操作文件比较麻烦。
 
 > 但对简单的处理，用大体量的软件或是写一段代码有点杀鸡用牛刀的感觉，这时，csvkit就有用武之地。
