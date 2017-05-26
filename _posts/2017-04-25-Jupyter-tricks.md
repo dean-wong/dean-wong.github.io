@@ -2,7 +2,7 @@
 layout: post
 title:  "Jupyter 小技巧"
 date:   2017-04-25
-categories: jekyll update
+categories: dean note
 ---
 ## 在Jupyter中画dot图
 
