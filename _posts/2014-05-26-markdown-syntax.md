@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Markdown Syntax"
-date:   2017-05-26 13:35:29 +0800
+date:   2014-05-26 13:35:29 +0800
 categories: dean note
 ---
 # Markdown For Typora
