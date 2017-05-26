@@ -1,11 +1,12 @@
 ---
 layout: page
-title: About
+title: "About"
+description: "Hello. My name is Dean Wong."
+header-img: "img/about-bg.jpg"
 ---
 
-<img src="portrait.jpg" class="profile-picture" width="128" align="right">
 
-Hello. My name is Dean Wong.
+<img src="portrait.jpg" class="profile-picture" width="128" align="right">
 
 I currently work at [Intellarm](http://www.intellarm.com/) building the next–generation smart industrial tool.
 

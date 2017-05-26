@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  "Markdown Syntax"
-date:   2014-05-26 13:35:29 +0800
-categories: dean note
+layout:     post
+title:      "Markdown Syntax"
+subtitle:   "Markdown 的简单语法示例"
+date:       2014-05-26 12:00:00
+author:     "Typora"
+header-img: "img/post-bg-01.jpg"
 ---
-# Markdown For Typora
 
 ## Overview
 
