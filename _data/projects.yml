@@ -1,0 +1,8 @@
+- name:  Cocoa-mupdf
+  url:   https://github.com/dean-wong/Cocoa-mupdf
+  descr: mupdf implement by Cocoa
+
+- name:  Cloud-POS
+  url:   https://github.com/dean-wong/Cloud-POS
+  descr: a POS system, on Cloud
+  

@@ -22,10 +22,25 @@ url: "http://drunkardwalk.com" # the base hostname & protocol for your site, e.g
 twitter_username: deanwong
 github_username:  dean-wong
 
+lsi: false
+permalink: /:title
+
 # Build settings
 markdown: kramdown
-theme: minima
+# Since GH pages override this to "true", we test this value to see if we are running locally
+safe: false
+include: [".well-known"]
+# highlighter: none
+# syntax_highlighter: none
+kramdown:
+  input: GFM
+  auto_ids: true
+  hard_wrap: false
+  # transliterated_header_ids: true
+  syntax_highlighter_opts:
+      disable: true
 gems:
+  - jekyll-redirect-from
   - jekyll-feed
 exclude:
   - Gemfile
